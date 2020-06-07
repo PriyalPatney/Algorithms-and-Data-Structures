@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//hackerrank
 string arrangeStudents(vector<int> a, vector<int> b) {
 sort(a.begin(),a.end());
     sort(b.begin(), b.end());
